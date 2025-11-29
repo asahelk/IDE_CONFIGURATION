@@ -4,7 +4,7 @@
   "background.enabled": true,
   "background.fullscreen": {
     "images": [
-      "file:///Downloads/girl2.jpg"
+      "https://github.com/asahelk/IDE_CONFIGURATION/blob/main/imgs/girl2.jpg?raw=true"
     ],
     "opacity": 0.1,
     "size": "cover",
